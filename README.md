@@ -16,9 +16,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
 
 ## 📊 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nghuy2903&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghuy2903&layout=compact)
 
 ## 🌐 Kết nối với tôi
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:nghuy29032004@gmail.com)
