@@ -26,7 +26,7 @@
 
 
 ## 📊 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nghuy2903&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghuy2903&layout=compact)
 
 ## 🌐 Kết nối với tôi
