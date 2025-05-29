@@ -25,9 +25,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nghuy2903&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nghuy2903&layout=compact)
 
-## 🌐 Kết nối với tôi
+## 🤝 Connect with me
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:nghuy29032004@gmail.com)
