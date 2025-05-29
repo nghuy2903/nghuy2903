@@ -1,4 +1,4 @@
-<h1 align="center">👋 Xin chào! Tôi là Nguyễn Văn A</h1>
+<h1 align="center">👋 Xin chào! Tôi là Nguyễn Nguyên Huy</h1>
 
 <p align="center">
   💻 Backend Developer • 🔍 Yêu thích giải thuật • 📚 Đang học Flutter
@@ -8,7 +8,6 @@
 
 ## 🧠 Về tôi
 - 🎓 Sinh viên ngành CNTT
-- 💼 Đang thực tập tại công ty ABC
 - ✨ Đam mê phát triển ứng dụng thực tế
 
 ## 🛠️ Kỹ năng
